@@ -1,0 +1,47 @@
+.container {
+    height: 400px;
+    width: 30%;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 20px;
+    background: white;
+    display: block;
+}
+
+.dateContainer {
+    width: 40%;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 0px;
+
+}
+
+.item1 {
+    grid-row: 1 /span 2;;
+    font-size: 50px;
+    text-align: center;
+}
+
+.item2 {
+    text-align: center;
+    padding-top: 18px;
+}
+
+.item3 {
+    padding-top: .2px;
+    margin-top:-10px;
+}
+.container Button {
+    position: absolute;
+    bottom: -25px;
+    right: 0px;
+    width: 40px;
+    left:47%;
+    border: 0px solid #d6d6d6;
+    background-color:#5cb85c;
+    border-radius: 100px;
+    box-shadow: #5cb85c;
+}
+

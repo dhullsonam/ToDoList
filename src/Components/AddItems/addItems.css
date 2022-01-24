@@ -1,0 +1,25 @@
+
+.AddItems {
+    display: block;
+    height: auto;
+    width: 50%;
+    margin:auto;
+    border: 1px solid;
+    align-content: center;
+    background-color: white;
+    margin-top:20%;
+}
+.AddItems h1 {
+    text-align: center;
+    font-size: 20px;
+    color: navy;
+}
+.AddItems Input {
+    width: 70%;
+    margin:15px;
+
+}
+.AddItems Button {
+
+}
+
